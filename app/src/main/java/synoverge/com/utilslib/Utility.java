@@ -18,7 +18,7 @@ public class Utility{
     {
         this.mContext=ctx;
     }*/
-
+	// Updated by vshw
     public static boolean isEdtTextEmpty(EditText editText) {
         if (editText.getText().toString().trim().equalsIgnoreCase("")) {
             return true;
